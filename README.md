@@ -20,4 +20,3 @@ python main.py
 ```
 ## Data Input
 The model accepts empirical GPC data (Weight fraction dw/dlogM vs logM) and mathematically converts it to a number fraction distribution for accurate Monte Carlo sampling.
-```
