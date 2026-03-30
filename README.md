@@ -10,7 +10,7 @@ This stochastic simulation models the reaction of functional groups on a polymer
 To run this code, please ensure you have Python 3.8+ installed. Install the required dependencies using:
 ```bash
 pip install -r requirements.txt
-
+```bash
 How to Run
 Configure your parameters in the .env file.
 Ensure your GPC data (e.g., GPC_articaluse.xlsx) is in the same directory.
