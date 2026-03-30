@@ -5,7 +5,7 @@ This repository contains the source code and source data for the Monte Carlo sim
 
 ## Overview
 This stochastic simulation models the reaction of functional groups on a polymer chain, incorporating Molecular Weight Distribution (MWD) derived from empirical GPC data, macro-triggering (Alpha), and micro-pairing (Omega) factors.
-![Monte Carlo Evolution Cycle](Mechanism diagram.png)
+![Monte Carlo Evolution Cycle](Mechanism_diagram.png)
 
 ## Requirements
 To run this code, please ensure you have Python 3.8+ installed. Install the required dependencies using:
